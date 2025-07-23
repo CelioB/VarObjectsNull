@@ -1,0 +1,15 @@
+E:\Programas\C#\RocketSeat\VarObjectsNull\VarObjectsNull\obj\Debug\net8.0\VarObjectsNull.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programas\C#\RocketSeat\VarObjectsNull\VarObjectsNull\obj\Debug\net8.0\VarObjectsNull.AssemblyInfoInputs.cache
+E:\Programas\C#\RocketSeat\VarObjectsNull\VarObjectsNull\obj\Debug\net8.0\VarObjectsNull.AssemblyInfo.cs
+E:\Programas\C#\RocketSeat\VarObjectsNull\VarObjectsNull\obj\Debug\net8.0\VarObjectsNull.csproj.CoreCompileInputs.cache
+E:\Programas\C#\RocketSeat\VarObjectsNull\VarObjectsNull\obj\Debug\net8.0\VarObjectsNull.sourcelink.json
+E:\Programas\C#\RocketSeat\VarObjectsNull\VarObjectsNull\bin\Debug\net8.0\VarObjectsNull.exe
+E:\Programas\C#\RocketSeat\VarObjectsNull\VarObjectsNull\bin\Debug\net8.0\VarObjectsNull.deps.json
+E:\Programas\C#\RocketSeat\VarObjectsNull\VarObjectsNull\bin\Debug\net8.0\VarObjectsNull.runtimeconfig.json
+E:\Programas\C#\RocketSeat\VarObjectsNull\VarObjectsNull\bin\Debug\net8.0\VarObjectsNull.dll
+E:\Programas\C#\RocketSeat\VarObjectsNull\VarObjectsNull\bin\Debug\net8.0\VarObjectsNull.pdb
+E:\Programas\C#\RocketSeat\VarObjectsNull\VarObjectsNull\obj\Debug\net8.0\VarObjectsNull.dll
+E:\Programas\C#\RocketSeat\VarObjectsNull\VarObjectsNull\obj\Debug\net8.0\refint\VarObjectsNull.dll
+E:\Programas\C#\RocketSeat\VarObjectsNull\VarObjectsNull\obj\Debug\net8.0\VarObjectsNull.pdb
+E:\Programas\C#\RocketSeat\VarObjectsNull\VarObjectsNull\obj\Debug\net8.0\VarObjectsNull.genruntimeconfig.cache
+E:\Programas\C#\RocketSeat\VarObjectsNull\VarObjectsNull\obj\Debug\net8.0\ref\VarObjectsNull.dll
